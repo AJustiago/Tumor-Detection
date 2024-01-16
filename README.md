@@ -1,7 +1,9 @@
 # Tumor Detection with U-Net Segmentation
 
 ## Overview
+
 ![segmentation](segmentation.jpg)
+
 This project focuses on Tumor Detection in brain MRI images using the U-Net segmentation architecture. The dataset used for training and evaluation is sourced from Kaggle, specifically the "LGG Brain MRI Segmentation" dataset by Mateusz Buda. The U-Net model is a convolutional neural network commonly used for image segmentation tasks.
 
 ## Dataset
